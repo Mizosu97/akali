@@ -14,4 +14,4 @@ Catppuccin Papirus Mocha Pink Folders: [https://github.com/catppuccin/papirus-fo
 
 Catppuccin Mocha Pink Cursor: [https://github.com/catppuccin/cursors]
 
-Wallpaper: [https://github.com/Mizosu97/akali/wing.jpg]
+Wallpaper: [https://github.com/Mizosu97/akali/blob/main/wing.jpg]
