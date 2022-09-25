@@ -13,3 +13,5 @@ Kali-Light: [https://gitlab.com/kalilinux/packages/kali-themes/-/tree/kali/maste
 Catppuccin Papirus Mocha Pink Folders: [https://github.com/catppuccin/papirus-folders]
 
 Catppuccin Mocha Pink Cursor: [https://github.com/catppuccin/cursors]
+
+Wallpaper: [https://github.com/Mizosu97/akali/wing.jpg]
